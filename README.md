@@ -35,7 +35,7 @@ We also tried to make the design as convenient and beautiful as possible.
 
 ### Screenshots:
 
-<img src="/readme/1.png" width="200"/> <img src="/readme/2.png" width="200"/> <img src="/readme/3.png" width="200"/> <img src="/readme/4.png" width="200"/> <img src="/readme/5.png" width="200"/> <img src="/readme/6.png" width="200"/> <img src="/readme/7.png" width="200"/>
+<img src="/readme/1a.png" width="200"/> <img src="/readme/2a.png" width="200"/> <img src="/readme/3a.png" width="200"/> <img src="/readme/4a.png" width="200"/> <img src="/readme/5a.png" width="200"/> <img src="/readme/6a.png" width="200"/> <img src="/readme/7a.png" width="200"/>
 
 
 
