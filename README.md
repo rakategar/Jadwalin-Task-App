@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/assets/poster jadwal in.jpg" width="250"/>
+  <img src="/assets/poster.jpg" width="250"/>
   <img src="/assets/icons/icon.png" width="150"/>
   <h2>Jadwal In</h2>
 </div>
