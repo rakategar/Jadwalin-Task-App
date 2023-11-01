@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/readme/poster.jpg" width="250"/>
+  <img src="/readme/poster.jpg" width="550"/>
   <img src="/assets/icons/icon.png" width="150"/>
   <h2>Jadwal In</h2>
 </div>
