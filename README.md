@@ -1,7 +1,9 @@
 <div align="center">
-<img src="/assets/icons/icon.png" width="150"/>
-<h2>Jadwal In</h2>
+  <img src="/assets/poster jadwal in.jpg" width="250"/>
+  <img src="/assets/icons/icon.png" width="150"/>
+  <h2>Jadwal In</h2>
 </div>
+
 
 ### Short Description:
 Jadwal In is a task management application with modern features that can make it easier for you to manage and categorize your tasks
@@ -38,4 +40,4 @@ This application was created to fulfill the final project of the Mobile Programm
 
 Special Thanks to
 Allah SWT.
-all teams who contributed.
+and all teams who contributed.
